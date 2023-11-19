@@ -34,7 +34,5 @@ Before using this ROS package, ensure that you have the following prerequisites 
 
 Launch the YOLO-NAS node:
 
-    ```bash
     roslaunch yolo_nas_ros yolo_nas.launch
-    ```
 

@@ -1,0 +1,13 @@
+<launch>
+  <node name="yolonas_node" pkg="yolo_nas_ros" type="yolonas_node.py" output="screen">
+    <!-- Modify and add any necessary parameters -->
+    <param name="~model" value="yolo_nas_m" />
+    <param name="~pretrained_weights" value="coco" />
+    <param name="~num_classes" value="-1" />
+    <param name="~checkpoint_path" value="" />
+    <param name="~device" value="cuda:0" />
+    <param name="~threshold" value="0.5" />
+    <param name="~enable" value="true" />
+  </node>
+</launch>
+

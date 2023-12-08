@@ -19,7 +19,7 @@ Before using this ROS package, ensure that you have the following prerequisites 
 
     ```bash
     cd ~/catkin_ws/src
-    git clone https://github.com/your_username/yolo-nas-ros.git
+    git clone https://github.com/Alaaeldinn/yolo-nas-ros.git
     ```
 
 2. Build your ROS workspace:

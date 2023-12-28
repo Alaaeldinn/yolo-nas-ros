@@ -4,7 +4,7 @@
 
 Welcome to the YOLO-NAS ROS package! This package integrates YOLO (You Only Look Once) object detection with neural architecture search (NAS) capabilities into the Robot Operating System (ROS). YOLO-NAS is designed to provide real-time object detection with the ability to dynamically optimize the underlying neural network architecture for efficiency and performance.
 
-![Alt Text](media/vid1.gif)
+![Alt Text](media/vid1.gif){loading="lazy"}
 
 
 ## Prerequisites
